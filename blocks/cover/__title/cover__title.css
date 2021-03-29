@@ -1,0 +1,14 @@
+.cover__title {
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 35px;
+    white-space: pre-line;
+    margin: 0 auto auto;
+}
+
+@media (min-width: 650px) {
+    .cover__title {
+        font-size: 72px;
+        line-height: 76px;
+    }
+}

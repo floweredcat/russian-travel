@@ -1,0 +1,17 @@
+.place__website {
+    margin: 0 16px;
+}
+
+@media (min-width: 425px) {
+    .place__website {
+        margin: 0 24px;
+    }
+}
+
+@media (min-width: 768px) {
+    .place__website {
+        margin: 0;
+        grid-row: 1;
+        grid-column: 2;
+    }
+}

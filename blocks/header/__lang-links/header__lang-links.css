@@ -1,0 +1,11 @@
+.header__lang-links {
+    justify-content: space-between;
+    margin-bottom: 8px;
+    align-self: flex-end;
+}
+
+@media (min-width:425px) {
+    .header__lang-links {
+        margin-bottom: 6px;
+    }
+}
