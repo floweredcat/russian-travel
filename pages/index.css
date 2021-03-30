@@ -29,7 +29,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
-@import url(../blocks/intro/__list-item/_value/intro__list-item_value.css);
+@import url(../blocks/intro/__list-item-value/intro__list-item-value.css);
 
   /*  photo-grid  */
 
