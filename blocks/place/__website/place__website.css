@@ -1,5 +1,6 @@
 .place__website {
     margin: 0 16px;
+    align-self: end;
 }
 
 @media (min-width: 425px) {

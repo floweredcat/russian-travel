@@ -1,26 +1,26 @@
 .intro {
     max-width: 425px;
     text-align: left;
-    padding: 0 16px;
+    margin: 0 16px;
     
 }
 
-@media (min-width: 425px) {
+@media (min-width: 650px) {
     .intro {
-        padding: 0 24px;
+        margin: 0 24px;
         max-width: 720px;
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 950px) {
     .intro {
         max-width: 690px;
-        padding: 0 48px;
+        margin: 0 48px;
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
     .intro {
-        padding-left: 148px;
+        margin-left: 148px;
     }
 }

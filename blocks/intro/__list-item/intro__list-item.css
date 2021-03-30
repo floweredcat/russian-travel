@@ -1,0 +1,5 @@
+.intro__list-item {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
