@@ -2,12 +2,13 @@
     font-size: 32px;
     font-weight: 900;
     line-height: 35px;
-    white-space: pre-line;
+    max-width: 288px;
     margin: 0 auto auto;
 }
 
 @media (min-width: 650px) {
     .cover__title {
+        max-width: 560px;
         font-size: 72px;
         line-height: 76px;
     }

@@ -3,11 +3,12 @@
     font-weight: 400;
     line-height: 16px;
     margin: 16px auto auto;
-    white-space: pre-line;
+    max-width: 288px;
 }
 
 @media (min-width: 650px) {
     .cover__subtitle {
+        max-width: 360px;
         font-size: 18px;
         line-height: 22px;
         margin: 32px auto auto;
